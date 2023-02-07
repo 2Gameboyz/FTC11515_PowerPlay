@@ -229,7 +229,7 @@ The goal is, during the autonomous driving time, to put a cone onto the high jun
 At the beginning, the cone placed in the claw is gripped and the arm is raised a little, so that the robot is not hindered by the claw being placed on it. The robot moves forward a little to be able to recognize the pattern on the signal, whereby the parking zone is passed. First, the robot moves to the straight line where the highjunction is located. Due to driving inaccuracies and the added weights, the program specifies that it should drive 8cm further than necessary to be on the straight line. To ensure the alignment, frontal to the straight line, the robot moves backwards against the wall. Now it drives straight towards the highjuntion, raising the arm to the necessary height. Shortly before the arm is above the junction, the speed is reduced, which guarantees a safe lifting of the cone. Now the robot moves, depending on whether it could recognize the pattern on the signal, into the assigned parking zone or into the terminal.
 
 ### Signal-Sleeve Detection
-<img alt="Detection" src="Images/04.png" style="float: right; margin-left: 15px" width="300" />
+<img alt="Detection" src="Images/detection.png" style="float: right; margin-left: 15px" width="300" />
 In order to recognize the signals, we have trained an AI in the form of an SSD network, which can recognize our self-designed signal sleeve. As soon as the camera has recognized the signal with a certain accuracy, the robot continues the autonomous. If it does not recognize the signal in a given time, it will be parked in the terminal instead of the displayed zone at the end.
 
 ### Github
