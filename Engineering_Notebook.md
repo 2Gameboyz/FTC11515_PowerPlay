@@ -87,9 +87,9 @@ After evaluate diffrent possible spots, the decision fell to attach the camera o
 
 After some brainstorming, the decision fell on a small piece of wood as a connection piece. A screw with the corect size to connect with the camera-thread was put in the center of the wood after a goodsized hole was drilled. Two more holes were drilled left and right of the center. Those are used to attacht the piece of wood onto the servo. This camera attachment fullfills all requirements.
 ### 3D-Printing
-<img alt="Detection" src="Seilwinde.png" style="float: right; margin-left: 15px" width="100" />
-<img alt="Detection" src="Servo.png" style="float: right; margin-left: 15px" width="140" />
-<img alt="Detection" src="Schieber.png" style="float: right; margin-left: 15px" width="183" />
+<img alt="Detection" src="Images/Seilwinde.png" style="float: right; margin-left: 15px" width="100" />
+<img alt="Detection" src="Images/Servo.png" style="float: right; margin-left: 15px" width="140" />
+<img alt="Detection" src="Images/Schieber.png" style="float: right; margin-left: 15px" width="183" />
 To make extra parts we use a small 3D printer. The design of the parts is done by us, using FreeCAD. This is a free alternative to Solidworks, which we have now abandoned, since we have switched completely to free and open source software. Among other things, we have installed archlinux on all RobotIGS laptops, so that we are no longer dependent on windows.
 
 ### Team Object
