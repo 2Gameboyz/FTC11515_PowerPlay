@@ -214,7 +214,7 @@ Another task done today was the fixing of the front montors. Some of the screws 
 ## Coding
 
 ### Driver Controls
-![Controls](Controls.jpeg)
+![Controls](Images/Controls.jpeg)
 ### The control system
 We use inverse kinematics to calculate the coordinates of the robot based on the movement of the motors. This allows us to drive by coordinates on the field, which is more accurate than driving by time. To make this easier for new members, the software captain has written aclass that handles the logic behind it, making it easier to get started and understand the code more easily.
 
@@ -330,7 +330,7 @@ Mainly the team-captain with the help of our teachers and different team-members
 Within every team and every project there are five categories. The Campfire, which is a group chat for all people within the team. The Message Board, where Messages and Announcements can be made. Docs & Files where documents can be uploaded, commented and shared. To-dos which can be assigned and a schedule to make assignments.
 
 
-![processes](Prozessablaufplan_RobotIGS.jpg)
+![processes](Images/Prozessablaufplan_RobotIGS.jpg)
 
 <p style="page-break-after: always;">&nbsp;</p>
 <p style="page-break-before: always;">&nbsp;</p>
