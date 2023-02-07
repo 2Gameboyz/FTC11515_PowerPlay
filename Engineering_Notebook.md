@@ -58,7 +58,7 @@ To work as efficient as possible, we modelled our fields of activity after the a
 ## Building
 ### Mechanisms
 #### Drivetrain
-<img alt="Detection" src="Images/Drivetrain.jpeg" style="float: right; margin-left: 15px; margin-top: 15px; margin-bottom: 15px" width="210" />
+<img alt="Detection" src="Images/Drivetrain.jpeg" align="right" width="210" />
 The drivetrain consists of three cross-ties structured like an H. On each side of the chassis are two mecanum wheels allowing the robot to drive in every diraction. The Robot is build in an H shaped form especially for stability, but also because the lift could then be placed right into the middle. The plan designing the chassis was to make it as small as possible so that the Robot would drive more easily between the different junctions. The four 223 RPM motors are placed on each end of the chassis with an angle of 90 degrees to the mecanum weels. They are connected to the wheel with gears. On the back of the robot is the control hub and one expansion hub. The battery is placed below the hubs. The rear motors are secured by some U-Channels. The allience-marker are placed on top of the protection. The hubs are enclosed with a plate to ensure their safety.
 
 #### Lift Mechanism
